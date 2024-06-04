@@ -1,0 +1,6 @@
+numpy==1.26.2
+matplotlib==3.8.2
+jax==0.4.28
+jaxlib==0.4.28
+git+https://github.com/deepmind/bsuite.git
+jupyterlab==4.2.0
